@@ -1,0 +1,15 @@
+{
+  "name": "cosmiconfig",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/davidtheclark/cosmiconfig#readme",
+  "version": "2.1.0",
+  "globalDevDependencies": {
+    "node": "registry:env/node#6.0.0+20161105011511"
+  },
+  "devDependencies": {
+    "blue-tape": "registry:npm/blue-tape#0.2.0+20160723033700"
+  },
+  "globalDependencies": {
+    "es6-shim": "registry:dt/es6-shim#0.31.2+20160602141504"
+  }
+}
