@@ -1,5 +1,5 @@
-# Typed Cosmiconfig  [![Build Status](https://travis-ci.org/effervescentia/typed-cosmiconfig.svg?branch=master)](https://travis-ci.org/effervescentia/typed-cosmiconfig)
-
+# Typed Cosmiconfig
+[![CircleCI](https://circleci.com/gh/effervescentia/typed-cosmiconfig.svg?style=svg)](https://circleci.com/gh/effervescentia/typed-cosmiconfig)
 
 The type definition for [`cosmiconfig`](https://github.com/davidtheclark/cosmiconfig.git)
 
