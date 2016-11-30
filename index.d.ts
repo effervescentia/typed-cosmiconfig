@@ -25,10 +25,6 @@ declare namespace cosmiconfig {
   }
 }
 
-declare interface Cosmiconfig {
-  (module: string, options?: cosmiconfig.Options): cosmiconfig.Explorer;
-}
-
-declare const cosmiconfig: Cosmiconfig;
+declare function cosmiconfig(module: string, options?: cosmiconfig.Options): cosmiconfig.Explorer;
 
 export = cosmiconfig;
