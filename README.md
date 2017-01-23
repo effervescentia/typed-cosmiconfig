@@ -1,4 +1,6 @@
 # Typed Cosmiconfig
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/effervescentia/typed-cosmiconfig.svg)](https://greenkeeper.io/)
 [![CircleCI](https://circleci.com/gh/effervescentia/typed-cosmiconfig.svg?style=svg)](https://circleci.com/gh/effervescentia/typed-cosmiconfig)
 
 The type definition for [`cosmiconfig`](https://github.com/davidtheclark/cosmiconfig.git)
